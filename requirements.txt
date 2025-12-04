@@ -1,0 +1,13 @@
+eventlet
+flask
+flask_socketio
+flask-login
+gevent
+gunicorn
+humanize
+jinja2
+rebrick
+requests
+tzdata
+bs4
+cloudscraper
